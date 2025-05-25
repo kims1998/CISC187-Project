@@ -1,4 +1,4 @@
-*****Taken From Professor Danish Khan's Project Assignment on Canvas:*****
+*****Taken From Professor Danish Khan's Project Assignment for Data Structures in C++*****
 
 # Project activity
 
